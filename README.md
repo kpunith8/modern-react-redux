@@ -14,5 +14,5 @@ Checkout this repo, install dependencies, then start the process with the follow
 ## It consists of following samples
 
 - Search for videos using youtube data API - Using built-in state and props
--
+- Book API - Using redux, react-redux
 
